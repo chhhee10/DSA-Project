@@ -1,2 +1,2 @@
 # DSA-Project
-AR camera tracking software in c++
+AR camera tracking software
